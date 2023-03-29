@@ -1,0 +1,5 @@
+com\tagsleuthregister\sleuth\services\SleuthService.class
+com\tagsleuthregister\sleuth\SleuthApplication.class
+com\tagsleuthregister\sleuth\services\impl\SleuthServiceImpl.class
+com\tagsleuthregister\sleuth\services\Registry.class
+com\tagsleuthregister\sleuth\services\SleuthRegistry.class
